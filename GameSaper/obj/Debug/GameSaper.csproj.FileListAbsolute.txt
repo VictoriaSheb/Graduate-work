@@ -1,0 +1,13 @@
+C:\Users\79156\Desktop\univer\4.2\ООП\WindowsFormsApp7_OOP\GameSaper\bin\Debug\GameSaper.exe.config
+C:\Users\79156\Desktop\univer\4.2\ООП\WindowsFormsApp7_OOP\GameSaper\bin\Debug\GameSaper.exe
+C:\Users\79156\Desktop\univer\4.2\ООП\WindowsFormsApp7_OOP\GameSaper\bin\Debug\GameSaper.pdb
+C:\Users\79156\Desktop\univer\4.2\ООП\WindowsFormsApp7_OOP\GameSaper\obj\Debug\GameSaper.csprojAssemblyReference.cache
+C:\Users\79156\Desktop\univer\4.2\ООП\WindowsFormsApp7_OOP\GameSaper\obj\Debug\GameSaper.Form1.resources
+C:\Users\79156\Desktop\univer\4.2\ООП\WindowsFormsApp7_OOP\GameSaper\obj\Debug\GameSaper.Properties.Resources.resources
+C:\Users\79156\Desktop\univer\4.2\ООП\WindowsFormsApp7_OOP\GameSaper\obj\Debug\GameSaper.csproj.GenerateResource.cache
+C:\Users\79156\Desktop\univer\4.2\ООП\WindowsFormsApp7_OOP\GameSaper\obj\Debug\GameSaper.csproj.CoreCompileInputs.cache
+C:\Users\79156\Desktop\univer\4.2\ООП\WindowsFormsApp7_OOP\GameSaper\obj\Debug\GameSaper.exe
+C:\Users\79156\Desktop\univer\4.2\ООП\WindowsFormsApp7_OOP\GameSaper\obj\Debug\GameSaper.pdb
+C:\Users\79156\Desktop\univer\4.2\ООП\WindowsFormsApp7_OOP\GameSaper\bin\Debug\LibSaper.dll
+C:\Users\79156\Desktop\univer\4.2\ООП\WindowsFormsApp7_OOP\GameSaper\bin\Debug\LibSaper.pdb
+C:\Users\79156\Desktop\univer\4.2\ООП\WindowsFormsApp7_OOP\GameSaper\obj\Debug\GameSaper.csproj.CopyComplete
