@@ -1,0 +1,9 @@
+D:\Visual Studio\projects\WF++\FormsOfRepresentation\FormsOfRepresentation\Debug\FormsOfRepresentation.Clipping.resources
+D:\Visual Studio\projects\WF++\FormsOfRepresentation\FormsOfRepresentation\Debug\FormsOfRepresentation.FormMain.resources
+D:\Visual Studio\projects\WF++\FormsOfRepresentation\FormsOfRepresentation\Debug\FormsOfRepresentation.FormNoise.resources
+D:\Visual Studio\projects\WF++\FormsOfRepresentation\FormsOfRepresentation\Debug\FormsOfRepresentation.vcxproj.GenerateResource.cache
+D:\Visual Studio\WF++\FormsOfRepresentation\FormsOfRepresentation\Debug\FormsOfRepresentation.vcxprojAssemblyReference.cache
+D:\Visual Studio\WF++\FormsOfRepresentation\FormsOfRepresentation\Debug\FormsOfRepresentation.Clipping.resources
+D:\Visual Studio\WF++\FormsOfRepresentation\FormsOfRepresentation\Debug\FormsOfRepresentation.FormMain.resources
+D:\Visual Studio\WF++\FormsOfRepresentation\FormsOfRepresentation\Debug\FormsOfRepresentation.FormNoise.resources
+D:\Visual Studio\WF++\FormsOfRepresentation\FormsOfRepresentation\Debug\FormsOfRepresentation.vcxproj.GenerateResource.cache

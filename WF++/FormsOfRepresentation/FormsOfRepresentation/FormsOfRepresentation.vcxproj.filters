@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Managers">
+      <UniqueIdentifier>{2f2f0e03-5783-4c72-9da4-e43e82148271}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ImageSupport">
+      <UniqueIdentifier>{42bd0ca2-187b-4ea6-a74c-c26846c17ee3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FunctionalityForCombiningImages">
+      <UniqueIdentifier>{a7bdeafa-45a8-4bed-9caf-c8aa97c54e9a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FunctionalityForCombiningImages\Исходные файлы">
+      <UniqueIdentifier>{fb659bb1-1bf1-4ac1-99c4-2038e1df6246}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ImageSupport\Исходные файлы">
+      <UniqueIdentifier>{e4ae4f6e-7556-40cb-83ac-8ad2dee83e13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Managers\Исходные файлы">
+      <UniqueIdentifier>{b1e22fd4-ffc9-4ea8-a5bc-41ba1e3f84d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FunctionalityForCombiningImages\Файлы заголовков">
+      <UniqueIdentifier>{eef283c6-cf45-447e-b221-07d4e4921102}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ImageSupport\Файлы заголовков">
+      <UniqueIdentifier>{3f2e200b-7589-4d57-8208-1b7aedad4eaa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Managers\Файлы заголовков">
+      <UniqueIdentifier>{755bd308-88e5-48fd-be91-e4a3c8c89387}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="FormMain.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="FormNoise.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="CriterionFunction.cpp">
+      <Filter>FunctionalityForCombiningImages\Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageCombiner.cpp">
+      <Filter>FunctionalityForCombiningImages\Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="TotallyOverkill.cpp">
+      <Filter>FunctionalityForCombiningImages\Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="FMainManager.cpp">
+      <Filter>Managers\Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="WorkWithImages.cpp">
+      <Filter>ImageSupport\Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Constructions.cpp">
+      <Filter>ImageSupport\Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Multistart.cpp">
+      <Filter>FunctionalityForCombiningImages\Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Clipping.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FormMain.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="FormNoise.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageCombiner.h">
+      <Filter>FunctionalityForCombiningImages\Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="CriterionFunction.h">
+      <Filter>FunctionalityForCombiningImages\Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="TotallyOverkill.h">
+      <Filter>FunctionalityForCombiningImages\Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="FMainManager.h">
+      <Filter>Managers\Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="WorkWithImages.h">
+      <Filter>ImageSupport\Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Constructions.h">
+      <Filter>ImageSupport\Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Multistart.h">
+      <Filter>FunctionalityForCombiningImages\Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Clipping.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

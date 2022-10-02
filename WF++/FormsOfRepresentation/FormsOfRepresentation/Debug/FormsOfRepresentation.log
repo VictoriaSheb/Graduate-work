@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (CombiningImages.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  FormMain.cpp
+D:\Visual Studio\WF++\FormsOfRepresentation\FormsOfRepresentation\FormMain.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Visual Studio\WF++\FormsOfRepresentation\FormsOfRepresentation\Constructions.h(8,59): warning C4091: extern : пропускается слева от "typeCalculator", когда ни одна переменная не объявлена
+D:\Visual Studio\WF++\FormsOfRepresentation\FormsOfRepresentation\Constructions.h(9,58): warning C4091: extern : пропускается слева от "img", когда ни одна переменная не объявлена
+D:\Visual Studio\WF++\FormsOfRepresentation\FormsOfRepresentation\Constructions.h(10,53): warning C4091: extern : пропускается слева от "rectangle", когда ни одна переменная не объявлена
+D:\Visual Studio\WF++\FormsOfRepresentation\FormsOfRepresentation\WorkWithImages.h(23,2): warning C4091: static : пропускается слева от "WorkWithImages", когда ни одна переменная не объявлена
+  Main.cpp
+D:\Visual Studio\WF++\FormsOfRepresentation\FormsOfRepresentation\FormMain.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Visual Studio\WF++\FormsOfRepresentation\FormsOfRepresentation\Constructions.h(8,59): warning C4091: extern : пропускается слева от "typeCalculator", когда ни одна переменная не объявлена
+D:\Visual Studio\WF++\FormsOfRepresentation\FormsOfRepresentation\Constructions.h(9,58): warning C4091: extern : пропускается слева от "img", когда ни одна переменная не объявлена
+D:\Visual Studio\WF++\FormsOfRepresentation\FormsOfRepresentation\Constructions.h(10,53): warning C4091: extern : пропускается слева от "rectangle", когда ни одна переменная не объявлена
+D:\Visual Studio\WF++\FormsOfRepresentation\FormsOfRepresentation\WorkWithImages.h(23,2): warning C4091: static : пропускается слева от "WorkWithImages", когда ни одна переменная не объявлена
+  Создание кода...
+  Clipping.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  FormsOfRepresentation.vcxproj -> D:\Visual Studio\WF++\FormsOfRepresentation\Debug\FormsOfRepresentation.exe
